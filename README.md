@@ -24,8 +24,7 @@ A modern, responsive weather application built with Django that allows users to 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/django-weather-app.git
-cd django-weather-app
+git clone https://github.com/GDIAMEL/A_WEATHER_APPLICATION.git
 ```
 
 2. Create a virtual environment:
